@@ -1,2 +1,2 @@
-# kuninkoja.fi.github.io
+# kuninkoja.com
 GitHub Pages
